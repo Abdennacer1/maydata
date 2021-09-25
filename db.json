@@ -1,0 +1,13 @@
+{ "MayData":{
+    "AdsCountroller":{
+       "Banner":"YOUR_BANNER_ID",
+       "Interstitial":"YOUR_BANNER_ID",
+       "Native":"YOUR_BANNER_ID",
+       
+       "ShowImg": true ,
+       "imgURL":"IMG_URL",
+       "OfferURL":"OFFER_URL"
+    }
+}
+
+}
