@@ -1,12 +1,12 @@
 { "MayData":{
     "AdsCountroller":{
-       "Banner":"YOUR_BANNER_ID",
-       "Interstitial":"YOUR_BANNER_ID",
-       "Native":"YOUR_BANNER_ID",
+       "Admob_Case":true,
+       "Admob_Banner":"ca-app-pub-3940256099942544/6300978111",
+       "Admob_Inter":"ca-app-pub-3940256099942544/1033173712",
        
-       "ShowImg": true ,
-       "imgURL":"IMG_URL",
-       "OfferURL":"OFFER_URL"
+       "Applovin_Case":false,
+       "Applovin_Banner":"afc106cac6c85186",
+       "Applovin_Inter":"335804ed29f022ca"
     }
 }
 
