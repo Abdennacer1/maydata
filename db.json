@@ -1,5 +1,4 @@
-{ "MayData":{
-    "AdsCountroller":{
+{ 
        "Admob_Case":true,
        "Admob_Banner":"NEW ADMOB BANNER CHANGER NOW NOW",
        "Admob_Inter":"NEW INTER BANNER CHANGED NOW NOW",
@@ -7,7 +6,5 @@
        "Applovin_Case":false,
        "Applovin_Banner":"afc106cac6c85186",
        "Applovin_Inter":"335804ed29f022ca"
-    }
-}
-
+ 
 }
